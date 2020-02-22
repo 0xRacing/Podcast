@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>0xRacing Podcast</title>
+<link>http://0xracing.github.io/podcast<link>
+<language>en-us</language>
+<itunes:subtitle>Cool Down Lap : 0x Incidents</itunes:subtitle>
+<itunes:author>0xRacing DAO</itunes:author>
+<itunes:summary>Weekly podcast for iRacing, eRacing, Indycar, NASCAR, and Formula 1.</itunes:summary>
+<description>Weekly podcast for iRacing, eRacing, Indycar, NASCAR, and Formula 1.</description>
+<itunes:owner>
+    <itunes:name>0xRacing DAO</itunes:name>
+    <itunes:email>0xracingdao@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:category text="Category Name"/></itunes:category>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Cool Down Lap Ep 0</title>
+    <itunes:summary>Cool Down Lap series introduction episode</itunes:summary>
+    <description>Cool Down Lap series introduction episode. Explaining how the series will work, what is covered, and more.</description>
+    <link>https://0xracing.github.io/podcast</link>
+    <enclosure url="https://0xracing.github.io/podcast/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 21 Jan 2020 16:01:07 +0000</pubDate>
+    <itunes:author>0xRacing DAO</itunes:author>
+    <itunes:duration>00:15:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://0xracing.github.io/podcast</guid>
+</item> 
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
